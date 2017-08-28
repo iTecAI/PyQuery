@@ -1,3 +1,3 @@
 import pyquery as pyq
-print pyq.allIndex('Amalia Vita Harris', 'a')
-pyq.gsearch('hello world book')
+print pyq.allIndex('cat cat cat', 'cat')
+pyq.gsearch('hello world book', False)
